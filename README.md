@@ -1,4 +1,4 @@
-# Wallet Management and Automated Testing System
+# Automated Testing System
 
 ## Introduction
 

@@ -6,7 +6,7 @@ import com.github.seratch.jslack.api.webhook.WebhookResponse;
 import org.apache.pdfbox.pdmodel.PDDocument;
 
 public class SlackIntegration {
-    private static String webHookUrl = "https://hooks.slack.com/services/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";
+    private static String webHookUrl = "YOUR-WEBHOOKURL";
     private static String oAuthToken = "xoxb-token";
     private static String slackChannel = "test";
 
